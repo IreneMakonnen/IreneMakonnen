@@ -16,7 +16,7 @@ I'm a Cybersecurity Analyst building skills in:
 - Risk Management
 - Report Writing
 
-To access my Cybersecurity Portfolio, please click [here](https://github.com/IreneMakonnen/Irene_Portfolio).<br/>
+To access my Cybersecurity Portfolio, please click [**here**](https://github.com/IreneMakonnen/Irene_Portfolio).<br/>
 
 ## Earned Certifications
 
