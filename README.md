@@ -1,10 +1,6 @@
 # Hi there, I'm Irene Makonnen
 
-<div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRzcjVzbWg1bmRxZDd3a2FvZHVwNDBqdzRmem9mMmg2d2V5OThnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zyFcsWHX2fdpyb5SBi/giphy.gif"  />
-</div>
-
-## About Me
+<a href="https://www.linkedin.com/in/irene-makonnen"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a Cybersecurity Analyst building skills in:
 
@@ -32,6 +28,4 @@ To access my Cybersecurity Portfolio, please click [**here**](https://github.com
 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
 
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irene-makonnen)
+![Velociraptor](https://img.shields.io/badge/velociraptor-%234B275F.svg?style=flat&logo=velociraptor&logoColor=white)
