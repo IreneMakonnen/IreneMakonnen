@@ -1,6 +1,22 @@
 # Hi there, I'm Irene Makonnen
 
-<a href="https://www.linkedin.com/in/irene-makonnen"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+```
+╔═════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║  0 1 0 0 ▓ 1 0 0 0 ▓ 0 1 0 0 ▓ 0 1 0 1 ▓ 0 1 0 0 ▓ 1 1 0 0 ▓ 0 1 0 0 ▓ 1 1 0 0 ▓ 0 1 0 0 ▓ 1 1 1 1  ║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════║
+║                                                                                                     ║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                     ┌──────────────────────────────────────────────────────────┐                    ║
+║                     │  root@status:~$ ./status.sh --live                       │                    ║
+║                     │  > FIREWALL  [████████████████████]  ACTIVE              │                    ║
+║                     │  > IDS/IPS   [████████████████████]  MONITORING          │                    ║
+║                     │  > THREATS   [███░░░░░░░░░░░░░░░░░]  NEUTRALIZED         │                    ║
+║                     │  > UPTIME    99.97%  /  BREACHES: 0  /  SECURED          │                    ║
+║                     └──────────────────────────────────────────────────────────┘                    ║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║  0 1 0 1 ▓ 0 1 1 1 ▓ 0 1 0 0 ▓ 1 1 1 1 ▓ 0 1 0 1 ▓ 0 0 1 0 ▓ 0 1 0 0 ▓ 1 1 0 0 ▓ 0 1 0 0 ▓ 0 1 0 0  ║
+╚═════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
 
 I'm a Cybersecurity Analyst building skills in:
 
@@ -13,6 +29,8 @@ I'm a Cybersecurity Analyst building skills in:
 - Report Writing
 
 To access my Cybersecurity Portfolio, please click [**here**](https://github.com/IreneMakonnen/Irene_Portfolio).<br/>
+
+<a href="https://www.linkedin.com/in/irene-makonnen"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Earned Certifications
 
