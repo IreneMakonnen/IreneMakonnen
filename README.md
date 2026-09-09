@@ -18,7 +18,7 @@
 ╚═════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-I'm a Cybersecurity Analyst building skills in:
+I'm a Cybersecurity Engineer building skills in:
 
 - Mobile & Web Application Security
 - Network Security
